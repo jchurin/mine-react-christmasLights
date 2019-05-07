@@ -1,0 +1,1 @@
+export const BACKGROUND_DEFAULT_COLOR = 'black'
